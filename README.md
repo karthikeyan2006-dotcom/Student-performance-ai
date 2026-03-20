@@ -183,9 +183,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Scikit-learn community for machine learning tools
 - Educational institutions supporting AI research
 
-## Contact
 
-For questions or feedback, please open an issue on GitHub or contact the project maintainers.
 
 ---
 
